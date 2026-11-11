@@ -1,8 +1,7 @@
 # BreezePartneradsMagento2
 
-## Installation
+## Installation (Deprecated)
 
-```bash
-composer require swissup/module-breeze-partnerads-magento2
-bin/magento setup:upgrade --safe-mode=1
-```
+You don't need this module with latest PartnerAds (2.4.0).
+
+We recommend upgrading `partnerads/magento2` instead of using this integration.
